@@ -1,5 +1,9 @@
+management:
+    openapi-checksum: 9e36e47d4ce69fcb485cd2ea3a34f19d
+    openapi-version: 1.0.0-beta
+    speakeasy-version: 0.22.0
 python:
-    version: 1.0.0
+    version: 1.1.0
     packagename: rowsapi
     author: rowsapi
 sdkclassname: rowsapi
