@@ -1,5 +1,11 @@
 # Rows API - Python SDK
 
+Welcome to Rows API documentation.  Rows API is a RESTful interface that lets you  create Rows integrations, i.e. applications that read and maintain data inside Rows spreadsheets programmatically.  In this documentation you can find detailed information about what you can do with Rows API, and how you should use it. We recommend that you start by reading the sections below where we describe important information about how authentication, rate-limiting, pagination and the API endpoints work.
+
+If you’re not familiar with the terms Workspaces, Folders, Spreadsheets, Pages, and Tables, please read the [Rows concepts](#section/Introduction/Rows-concepts) section below or [the docs](https://rows.com/docs/category/getting-started) of Rows website for more detailed information.
+
+If you still have questions beyond this documentation, please contact us on support@rows.com email or through our chat interface in your Rows account.
+
 <!-- Start SDK Installation -->
 ## SDK Installation
 
