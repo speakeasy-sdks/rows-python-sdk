@@ -1,4 +1,4 @@
-# rowsapi
+# Rows API - Python SDK
 
 <!-- Start SDK Installation -->
 ## SDK Installation
