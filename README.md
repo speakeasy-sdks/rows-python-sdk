@@ -2,9 +2,9 @@
 
 Welcome to Rows API Pyhton SDK.  Rows API is a RESTful interface that lets you  create Rows integrations, i.e. applications that read and maintain data inside Rows spreadsheets programmatically.
 
-If you’re not familiar with the terms Workspaces, Folders, Spreadsheets, Pages, and Tables, please read the [Rows concepts](#section/Introduction/Rows-concepts) section below or [the docs](https://rows.com/docs/category/getting-started) of Rows website for more detailed information.
+If you’re not familiar with the terms Workspaces, Folders, Spreadsheets, Pages, and Tables, please read the [Rows concepts](#section/Introduction/Rows-concepts) section below or [the docs](https://rows.com/docs/category/getting-started) on Rows website for more detailed information.
 
-If you still have questions beyond this documentation, please contact us on support@rows.com email or through our chat interface in your Rows account.
+If you still have questions beyond this documentation, please contact us on support@rows.com email or through the chat interface in your Rows account.
 
 <!-- Start SDK Installation -->
 ## SDK Installation
