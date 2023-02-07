@@ -7,11 +7,7 @@ If you’re not familiar with the terms Workspaces, Folders, Spreadsheets, Pages
 If you still have questions beyond this documentation, please contact us on support@rows.com email or through the chat interface in your Rows account.
 
 <!-- Start SDK Installation -->
-## SDK Installation
 
-```bash
-pip install rowsapi
-```
 <!-- End SDK Installation -->
 
 ## SDK Example Usage
